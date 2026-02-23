@@ -7,3 +7,4 @@ Final Assignment: Real World Design Challenge </br>
 Design Prompt/Task List: https://www.figma.com/board/9R9BjrHBuAijVXdk6yPcWW/Design-Project-Part-1?node-id=0-1&t=NOvdIwTqfwvQFyVB-1 </br>
 Wireframes: https://www.figma.com/design/XFqktbCm3LqV0Xu8sPQj1Q/Project-Part-2-3?node-id=0-1&t=NOvdIwTqfwvQFyVB-1 </br>
 Prototype: https://www.figma.com/proto/XFqktbCm3LqV0Xu8sPQj1Q/Project-Part-2-3?node-id=11-3&t=NOvdIwTqfwvQFyVB-1 </br>
+Presentation: https://www.canva.com/design/DAG6_ulBi9Q/xtVPjU93s10zgYMzKss67g/view?utm_content=DAG6_ulBi9Q&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8a841946a7 
